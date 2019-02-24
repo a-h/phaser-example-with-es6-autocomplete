@@ -1,0 +1,12 @@
+{
+  "name": "crocodile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adrian Hesketh",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.13.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
